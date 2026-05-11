@@ -1,0 +1,6 @@
+# Claude Code config (may contain tokens)
+.claude/settings.local.json
+settings.json
+
+# Personal memory (user profiles, health info, trading notes, etc.)
+memory/
