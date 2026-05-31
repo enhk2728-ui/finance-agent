@@ -1,0 +1,10 @@
+MetaTrader5==5.0.5735
+streamlit==1.57.0
+
+
+pandas==2.2.0
+numpy==1.26.3
+anthropic==0.39.0
+openai==1.55.0
+pytest==8.0.0
+python-dotenv==1.0.0

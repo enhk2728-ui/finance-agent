@@ -4,3 +4,13 @@ settings.json
 
 # Personal memory (user profiles, health info, trading notes, etc.)
 memory/
+
+# Gold analysis generated artifacts
+skills/gold-analysis/__pycache__/
+skills/gold-analysis/scripts/__pycache__/
+skills/gold-analysis/evals/__pycache__/
+skills/gold-analysis/.pytest_cache/
+skills/gold-analysis/.omc/
+skills/gold-analysis/*.json
+skills/gold-analysis/prompts/*.md
+skills/gold-analysis/nul

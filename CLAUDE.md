@@ -17,11 +17,13 @@ claude/
     ├── book-to-skill/       # PDF/EPUB → Skill converter
     ├── frontend-design/     # UI design skill
     ├── github/              # GitHub operations
+    ├── gold-analysis/       # Gold XAUUSD price action analysis (v4.2)
     ├── google-search-console-automation/
     ├── humanize-chinese/    # Chinese text polishing
     ├── llm-wiki/            # LLM Wiki knowledge base
     ├── pdf/                 # PDF processing
     ├── planning-with-files/ # Long-session planning
+    ├── publish-to-github/   # Sanitize + push projects to GitHub
     ├── skill-creator/       # Skill authoring toolkit
     ├── skill-vetter/        # Security review for skills
     └── xlsx/                # Spreadsheet processing
