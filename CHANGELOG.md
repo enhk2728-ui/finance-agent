@@ -6,6 +6,7 @@
 - `gen_analysis_live.py` — Live agent-driven analysis runner for direct integration
 - `finalize.py` — Standalone finalize script for processing agent output JSON
 - `prompts/` directory — Runtime prompt storage (system_prompt.md + user_prompt.md)
+- **Bilingual README** — `README.md` (English) + `README.zh.md` (中文) with language switcher
 - Dashboard-first workflow with `st.status()` progress pipeline
 - Two-phase dashboard rendering (Phase 1: loading → Phase 2: full render)
 
